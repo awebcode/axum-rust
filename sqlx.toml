@@ -1,0 +1,3 @@
+# sqlx.toml
+[database]
+url = "postgres://postgres:postgres@localhost:5432/ax_2"  # 🔁 Update this
